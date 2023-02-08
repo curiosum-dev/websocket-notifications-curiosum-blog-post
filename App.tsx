@@ -12,6 +12,7 @@ import {
   Text,
   TouchableOpacity,
 } from 'react-native';
+import { WSDisplay } from './components/WSDisplay';
 import { SocketProvider } from './context/socketContext';
 import { useFirebase } from './hooks/useFirebase';
 
