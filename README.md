@@ -17,20 +17,20 @@
 
 <ol>
   <li>Clone the repository to your local machine.</li>
-  <li>Run <code>npm install</code> in the project directory to install the required dependencies.</li>
+  <li>Run <code>npm install or yarn</code> in the project directory to install the required dependencies.</li>
 </ol>
 
 <h2 id="usage">Usage</h2>
 
 <p>Once you have installed the application, you can use it by running the following command in the project directory:</p>
 
-<pre><code>npm start</code></pre>
+<pre><code>npm start</code></pre> 
 
 <p>This will start the application and you should see the app running in your simulator or on your device.</p>
 
 <h2 id="push-notification">Push Notification</h2>
 
-<p>To test the Push Notification functionality in this app, you can use a service like <a href="https://expo.io/notifications">Expo Push Notification Tool</a>. Simply create an account and follow the instructions to send a test push notification to your app.</p>
+<p>To test the Push Notification functionality in this app, you can use a service like <a href="https://expo.io/notifications">Firebase Cloud Messaging</a>. Simply create an account and follow the instructions to send a test push notification to your app.</p>
 
 <p>The app is already set up to receive push notifications, so you should see the notification pop up when you receive it.</p>
 
