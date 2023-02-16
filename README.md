@@ -30,7 +30,7 @@
 
 <h2 id="push-notification">Push Notification</h2>
 
-<p>To test the Push Notification functionality in this app, you can use a service like <a href="https://expo.io/notifications">Firebase Cloud Messaging</a>. Simply create an account and follow the instructions to send a test push notification to your app.</p>
+<p>To test the Push Notification functionality in this app, you can use a service like <a href="https://console.firebase.google.com/">Firebase Cloud Messaging</a>. Simply create an account and follow the instructions to send a test push notification to your app.</p>
 
 <p>The app is already set up to receive push notifications, so you should see the notification pop up when you receive it.</p>
 
